@@ -215,7 +215,7 @@ $(document).ready(function() {
 			prevText: '<i class="fa fa-angle-left"></i>',
 			nextText: '<i class="fa fa-angle-right"></i>',
 			animation: 'fade',
-			slideshowSpeed: 5000,
+			slideshowSpeed: 6000,
 			animationSpeed: 400,
 			useCSS: true,
 			directionNav: false, 
