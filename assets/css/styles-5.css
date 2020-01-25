@@ -1259,10 +1259,10 @@ a:focus
 -----Clients Styles-----
 ------------------------*/
 .clients .client {
-    max-width:300px;
+    max-width:100%;
     margin:0 auto 0;
     padding:30px;
-    overflow:hidden;
+    /* overflow:hidden; */
 }
 
 .client img {
@@ -1274,7 +1274,7 @@ a:focus
 
 .client img:hover {
     -webkit-transform:scale(1.1);
-    transform:scale(1.1);
+    transform:scale(1.2);
 }
 
 /*----------------------
